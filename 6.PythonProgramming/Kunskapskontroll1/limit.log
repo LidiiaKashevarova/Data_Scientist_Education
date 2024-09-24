@@ -1,0 +1,18 @@
+[2024-09-09 12:55:18,441][DEBUG] limit: 71.0
+[2024-09-09 12:55:18,441][INFO] INFO: limit value is in normal range: 71.0
+[2024-09-09 12:55:18,441][DEBUG] limit: 97.0
+[2024-09-09 12:55:18,441][WARNING] WARNING: limit is in the warning range: 97.0
+[2024-09-09 12:55:18,442][DEBUG] limit: 267.0
+[2024-09-09 12:55:18,442][ERROR] ERROR: limit value exceeds the limit: 267.0
+[2024-09-09 12:55:18,442][CRITICAL] Division by zero detected! 'd' cannot be 0.
+[2024-09-09 12:55:18,442][DEBUG] limit: -113.0
+[2024-09-09 12:55:18,442][ERROR] ERROR: max_100 value less than the limit 0: -113.0
+[2024-09-18 10:21:23,323][DEBUG] limit: 71.0
+[2024-09-18 10:21:23,323][INFO] INFO: limit value is in normal range: 71.0
+[2024-09-18 10:21:23,324][DEBUG] limit: 97.0
+[2024-09-18 10:21:23,324][WARNING] WARNING: limit is in the warning range: 97.0
+[2024-09-18 10:21:23,324][DEBUG] limit: 267.0
+[2024-09-18 10:21:23,324][ERROR] ERROR: limit value exceeds the limit: 267.0
+[2024-09-18 10:21:23,324][CRITICAL] Division by zero detected! 'd' cannot be 0.
+[2024-09-18 10:21:23,324][DEBUG] limit: -113.0
+[2024-09-18 10:21:23,324][ERROR] ERROR: max_100 value less than the limit 0: -113.0
